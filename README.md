@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="KARPRİME Teknoloji Akademisi Banner’ı" src="https://github.com/user-attachments/assets/82bfb087-dfa0-4f7c-b103-0269841dcf40" />
 ### Hi there, I'm Tolga Kara 👋
 
 I am a **Deep-Tech Founder & Security Architect** focused on building next-generation serverless cybersecurity and decentralized digital identity frameworks.
