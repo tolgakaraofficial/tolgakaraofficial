@@ -8,5 +8,5 @@ I am a **Deep-Tech Founder & Security Architect** focused on building next-gener
 - 🛡️ **Research Focus:** Post-Quantum Cryptography (Shor's & Grover's resistance), Directed Acyclic Graph (DAG) topologies, and Zero-Knowledge Proofs (ZKP).
 - 🎥 **Content & Community:** Sharing insights at [Karprime Technology Academy](https://www.youtube.com/@karprimetechnology)
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/tolga-kara-53b953323/)
-
+- 📫 **Connect with me:** [Medium](https://medium.com/@tolgakaraofficiall)
 -->
